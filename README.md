@@ -9,6 +9,9 @@
 [![SwiftData](https://img.shields.io/badge/SwiftData-1.0+-purple.svg)](https://developer.apple.com/documentation/swiftdata/)
 
 ## 📱 About
+![CF9575D0-C689-419B-A7D5-78F98B156112_1_105_c](https://github.com/user-attachments/assets/2ec69097-a218-4224-9407-770bda74d835)
+![DFD207D5-F9A3-4ED4-BCEC-6![0FF5429E-8E2E-4256-A674-49E3EB464A8A_1_105_c](https://github.com/user-attachments/assets/ca8bae68-4115-4b09-8a13-f40ba2df701c)
+A574172B005_1_105_c](https://github.com/user-attachments/assets/22c8d5ac-d4e7-46af-90f6-2745bf3b88d5)
 
 **BD Lead Manager** is a comprehensive iOS application designed to revolutionize how businesses manage leads, run marketing campaigns, and track customer relationships. Built with modern iOS technologies, it provides enterprise-grade lead management with a focus on user experience and data security.
 
